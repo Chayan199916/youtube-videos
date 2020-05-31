@@ -65,7 +65,7 @@ def my_special_gen():
 
 # iter(callable, sentinel= some_val)
 
-my_inf_seq = (ele for ele in iter(int, 1))
+my_inf_seq = (ele for ele in iter(int, 1)) # iter() returns an infinite iterator
 
 for ele in my_inf_seq:
     print(ele)
