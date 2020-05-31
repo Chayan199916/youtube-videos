@@ -2,11 +2,11 @@
   |
   |--- name : list comprehension
   |
-  |---syntax : [var for var in iterable if var satisfies a condition]
+  |---syntax : [expression for var in iterable if var satisfies a condition]
   |
   |--- name : set comprehension
   |
-  |---syntax : {var for var in iterable if var satisfies a condition}
+  |---syntax : {expression for var in iterable if var satisfies a condition}
   |
   |--- name : dictionary comprehension
   |
@@ -14,6 +14,6 @@
   |
   |--- name : generator comprehension / generator expression
   |
-  |---syntax : (var for var in iterable if var satisfies a condition)
+  |---syntax : (expression for var in iterable if var satisfies a condition)
   |
   
