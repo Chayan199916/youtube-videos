@@ -1,0 +1,41 @@
+
+Topics : anonymous function, map, filter, reduce and decorators
+----------------------------------------------------------------------------------
+
+video 13
+----------------------------------------------------------------------------------
+what is anonymous function?
+lambda expression.
+syntax
+examples
+use
+
+video 14
+---------------------------------------------------------------------------------
+map function
+syntax
+use
+examples
+
+video 15
+---------------------------------------------------------------------------------
+filter function
+syntax
+use
+examples
+
+video 16
+---------------------------------------------------------------------------------
+reduce function
+syntax
+use
+examples
+
+video 17
+---------------------------------------------------------------------------------
+Decorators 
+Diff Kinds
+use
+examples
+
+some advanced concepts
